@@ -1,4 +1,5 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ||<img src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/personal.png" width="25px">
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/leonid-panov-a814aa23b/">
