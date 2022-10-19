@@ -11,8 +11,8 @@
 <br/>
 
 ### Languages and Tools:
-<a>
-  <img height="30" title="WebStorm" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/webstorm.png">
+<a
+  <img height="30" title="WebStorm" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/webstorm.png">/>
 </a>
 
 
