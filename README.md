@@ -2,7 +2,7 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/leonid-panov-a814aa23b/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/linkedin.png" />
+  <img align="left" alt="LinkedIn" width="35px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/linkedin.png" />
 </a>
 
 
@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 <a>
-  <img align="left" height="30px" title="WebStorm" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+  <img align="left" height="35px" title="WebStorm" width="35px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
 
 
