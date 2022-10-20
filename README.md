@@ -18,9 +18,12 @@
 
 **Languages and Tools:**
 
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">
-  <img height="25" title="React" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">
-</a>
+[//]: # (<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">)
+
+[//]: # (  <img height="25" title="React" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">)
+
+[//]: # (</a>)
+
 <img align="left" height="25" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
 <img align="left" height="25" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png">
 <img align="left" height="25" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png">
