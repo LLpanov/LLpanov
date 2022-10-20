@@ -18,8 +18,9 @@
 
 **Languages and Tools:**
 
-
+<a>
 <img align="left" height="25" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+</a>
 <img align="left" height="25" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
 <img align="left" height="25" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
 <img align="left" height="25" title="NodeJs" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
