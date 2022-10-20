@@ -14,7 +14,7 @@
 #### Languages and Tools:
 
 <a href="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
-  <img align="left" height="30px" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+  <img align="left" height="30" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
 <a>
   <img align="left" height="30" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
