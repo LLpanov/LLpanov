@@ -20,8 +20,7 @@
 
 
 <img align="left" height="25" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
-<img align="left" height="25" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
-<img align="left" height="25" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
+<img align="left" height="25" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/><img align="left" height="25" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
 <img align="left" height="25" title="NodeJs" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
 <img align="left" height="25" title="expressJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/icons8-express-js-480.png"/>
 <img align="left" height="25" title="NestJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
