@@ -38,6 +38,9 @@
   <img align="left" height="30px" title="MySQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/MySQL.png"/>
 </a>
 <a>
+  <img align="left" height="30px" title="PostgreSQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/postgreess.png"/>
+</a>
+<a>
   <img align="left" height="30px" title="React"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
 </a>
 
