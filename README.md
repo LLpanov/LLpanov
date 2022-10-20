@@ -44,6 +44,6 @@
   <img align="left" height="30px" title="React"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="Angular"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
+  <img align="left" height="30px" title="Angular"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/Angular.png"/>
 </a>
 
