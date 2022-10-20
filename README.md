@@ -26,7 +26,7 @@
   <img align="left" height="30px" title="NodeJs" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="expressJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/62e10c165ef64947d65efb6724728e27db3da9b5/icons/expressjs_logo_icon_169185.svg"/>
+  <img align="left" height="30px" title="expressJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/icons8-express-js-480.png"/>
 </a>
 <a>
   <img align="left" height="30px" title="NestJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
