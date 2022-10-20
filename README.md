@@ -38,11 +38,11 @@
   <img height="30" title="nestJS" src="https://github.com/LLpanov/LLpanov/blob/main/icons/nestjs.png">
 </a>
 
-<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs">
+<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png">
   <img height="30" title="MongoDB" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png">
 </a>
 
-<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs">
+<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/MySQL.png">
   <img height="30" title="MySQL" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MySQL.png">
 </a>
 
