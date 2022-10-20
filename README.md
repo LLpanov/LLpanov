@@ -8,14 +8,13 @@
 </a>
 
 
-[//]: # (https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/yahoo.png)
 <br/>
 <br/>
 
 #### Languages and Tools:
 
 <a>
-  <img align="left" height="30px" title="WebStorm" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+  <img align="left"  title="WebStorm" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
 <a>
   <img align="left" height="30px" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
