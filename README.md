@@ -8,12 +8,16 @@
 </a>
 
 <a href="https://mailto:leonardopanov@yahoo.com/">
-  <img align="left" alt="Yahoo" width="24px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/yahoo.png" />
+  <img align="left" alt="Yahoo" width="24px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/yahoo.png"/>
 
 </a>
 
 <a href="https://mailto:leomylord@gmail.com/">
   <img align="left" alt="Gmail" width="25px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/gmail.png"/>
+</a>
+
+<a href="https://t.me/LLPanov">
+  <img align="left" alt="Telegram" width="25px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/telegram.png"/>
 </a>
 
 
