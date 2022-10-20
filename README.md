@@ -30,8 +30,8 @@
   <img height="25" title="TypeScript" src="https://github.com/LLpanov/LLpanov/blob/main/icons/TypeScript.png">
 </a>
 
-<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs">
-  <img height="25" title="NodeJs" src="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs">
+<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png">.
+  <img height="25" title="NodeJs" src="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/icons8-express-js-480.png">
