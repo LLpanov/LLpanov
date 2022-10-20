@@ -16,50 +16,46 @@
 <br/>
 <br/>
 
-**Languages and Tools:**
-
-<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/WebStorm.png">
-  <img height="25" title="Webstorm" src="https://github.com/LLpanov/LLpanov/blob/main/icons/WebStorm.png">
-</a>
+**Languages and Tools:30
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/JavaScript.png">
-  <img height="25" title="JavaScript" src="https://github.com/LLpanov/LLpanov/blob/main/icons/JavaScript.png">
+  <img height="30" title="JavaScript" src="https://github.com/LLpanov/LLpanov/blob/main/icons/JavaScript.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/TypeScript.png">
-  <img height="25" title="TypeScript" src="https://github.com/LLpanov/LLpanov/blob/main/icons/TypeScript.png">
+  <img height="30" title="TypeScript" src="https://github.com/LLpanov/LLpanov/blob/main/icons/TypeScript.png">
 </a>
 
-<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png">
-  <img height="25" title="NodeJs" src="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png">
+<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png30
+  <img height="30" title="NodeJs" src="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/icons8-express-js-480.png">
-  <img height="25" title="expressJS" src="https://github.com/LLpanov/LLpanov/blob/main/icons/icons8-express-js-480.png">
+  <img height="30" title="expressJS" src="https://github.com/LLpanov/LLpanov/blob/main/icons/icons8-express-js-480.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nestjs.png">
-  <img height="25" title="nestJS" src="https://github.com/LLpanov/LLpanov/blob/main/icons/nestjs.png">
+  <img height="30" title="nestJS" src="https://github.com/LLpanov/LLpanov/blob/main/icons/nestjs.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs">
-  <img height="25" title="MongoDB" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png">
+  <img height="30" title="MongoDB" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs">
-  <img height="25" title="MySQL" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MySQL.png">
+  <img height="30" title="MySQL" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MySQL.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/postgreess.png">
-  <img height="25" title="PostgreSQL" src="https://github.com/LLpanov/LLpanov/blob/main/icons/postgreess.png">
+  <img height="30" title="PostgreSQL" src="https://github.com/LLpanov/LLpanov/blob/main/icons/postgreess.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/React.png">
-  <img height="25" title="React" src="https://github.com/LLpanov/LLpanov/blob/main/icons/React.png">
+  <img height="30" title="React" src="https://github.com/LLpanov/LLpanov/blob/main/icons/React.png">
 </a>
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/Angular.png">
-  <img height="25" title="Angular" src="https://github.com/LLpanov/LLpanov/blob/main/icons/Angular.png">
+  <img height="30" title="Angular" src="https://github.com/LLpanov/LLpanov/blob/main/icons/Angular.png">
 </a>
 
 
