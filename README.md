@@ -17,27 +17,27 @@
   <img align="left" height="30px" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
+  <img align="left" height="30px" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="TypeScript" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
+  <img align="left" height="30px" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="NodeJs" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
+  <img align="left" height="30px" title="NodeJs" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="expressJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/62e10c165ef64947d65efb6724728e27db3da9b5/icons/expressjs_logo_icon_169185.svg"/>
+  <img align="left" height="30px" title="expressJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/62e10c165ef64947d65efb6724728e27db3da9b5/icons/expressjs_logo_icon_169185.svg"/>
 </a>
 <a>
-  <img align="left" height="30px" title="NestJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
+  <img align="left" height="30px" title="NestJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="MongoDB" width="30px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png"/>
+  <img align="left" height="30px" title="MongoDB" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="MySQL" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/MySQL.png"/>
+  <img align="left" height="30px" title="MySQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/MySQL.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="React" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
+  <img align="left" height="30px" title="React"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
 </a>
----
+
