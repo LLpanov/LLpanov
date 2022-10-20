@@ -17,33 +17,33 @@
   <img align="left" height="30px" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
+  <img align="left" height="30" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
+  <img align="left" height="30" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="NodeJs" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
+  <img align="left" height="30" title="NodeJs" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="expressJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/icons8-express-js-480.png"/>
+  <img align="left" height="30" title="expressJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/icons8-express-js-480.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="NestJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
+  <img align="left" height="30" title="NestJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="MongoDB" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png"/>
+  <img align="left" height="30" title="MongoDB" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="MySQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/MySQL.png"/>
+  <img align="left" height="30" title="MySQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/MySQL.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="PostgreSQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/postgreess.png"/>
+  <img align="left" height="30" title="PostgreSQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/postgreess.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="React"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
+  <img align="left" height="30" title="React"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="Angular"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/Angular.png"/>
+  <img align="left" height="30" title="Angular"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/Angular.png"/>
 </a>
 
