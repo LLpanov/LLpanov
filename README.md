@@ -5,10 +5,15 @@
 
 <a href="https://www.linkedin.com/in/leonid-panov-a814aa23b/">
   <img align="left" alt="LinkedIn" width="24px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/linkedin.png" />
-
 </a>
+
 <a href="https://mailto:leonardopanov@yahoo.com/">
   <img align="left" alt="Yahoo" width="24px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/yahoo.png" />
+
+</a>
+
+<a href="https://mailto:leomylord@gmail.com/">
+  <img align="left" alt="Gmail" width="24px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/gmail.png"/>
 </a>
 
 
