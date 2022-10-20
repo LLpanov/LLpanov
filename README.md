@@ -13,8 +13,8 @@
 
 #### Languages and Tools:
 
-<a href="https://github.com/LLpanov/LLpanov/tree/main/icons/WebStorm.png>
-  <img align="left" height="30px" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
+<a>
+  <img align="left" height="30px" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
 <a>
   <img align="left" height="30px" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
@@ -26,13 +26,18 @@
   <img align="left" height="30px" title="NodeJs" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
 </a>
 <a>
-<a>
   <img align="left" height="30px" title="expressJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/62e10c165ef64947d65efb6724728e27db3da9b5/icons/expressjs_logo_icon_169185.svg"/>
 </a>
+<a>
   <img align="left" height="30px" title="NestJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
+</a>
+<a>
+  <img align="left" height="30px" title="MongoDB" width="30px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png"/>
+</a>
+<a>
+  <img align="left" height="30px" title="MySQL" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/MySQL.png"/>
 </a>
 <a>
   <img align="left" height="30px" title="React" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
 </a>
-
-
+#
