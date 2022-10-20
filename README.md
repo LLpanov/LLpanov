@@ -1,67 +1,31 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ||<img src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/personal.png" width="50px">||
 
-<a href="https://www.linkedin.com/in/nastyagrigorieva/">
-  <img align="left" alt="Linkdin" width="24px" src="https://github.com/NastyaGrigorieva/icons/blob/main/linkedin.png" />
+<a href="https://www.linkedin.com/in/leonid-panov-a814aa23b/">
+  <img align="left" alt="LinkedIn" width="30px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/linkedin.png" />
+
 </a>
-<a href="https://www.instagram.com/nastase_grig/">
-  <img align="left" alt="Instagram" width="24px" src="https://github.com/NastyaGrigorieva/icons/blob/main/instagram.png" />
-</a>
-<a href="https://t.me/GrigorievaAnastasy">
-  <img align="left" alt="Telegram" width="24px" src="https://github.com/NastyaGrigorieva/icons/blob/main/telegram.png" />
-</a>
-<a href="https://m.facebook.com/profile.php">
-  <img align="left" alt="Facebook" width="24px" src="https://github.com/NastyaGrigorieva/icons/blob/main/facebook.png" />
-</a>
-<a href="mailto:nastya.grigoreva1502@gmail.com">
-  <img align="left" alt="Mail" width="24px" src="https://github.com/NastyaGrigorieva/icons/blob/main/gmail.png" />
+<a href="https://mailto:leonardopanov@yahoo.com/">
+  <img align="left" alt="Yahoo" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/yahoo.png" />
 </a>
 
-<br />
-<br />
+
+<br/>
+<br/>
+<br/>
 
 **Languages and Tools:**
 
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/WebStorm.png">
-  <img height="25" title="WebStorm" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/WebStorm.png">
-</a>
-<!-- <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/VisualStudioCode.png">
-  <img height="25" title="VSC" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/VisualStudioCode.png">
-</a> -->
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/JavaScript.png">
-  <img height="25" title="JavaScript" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/JavaScript.png">
-</a>
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/TypeScript.png">
-  <img height="25" title="TypeScript" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/TypeScript.png">
-</a>
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/NodeJS.png">
-  <img height="25" title="NodeJs" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/NodeJS.png">
-</a>
-<!-- <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
-  <img height="25" title="MongoDB" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
-</a> -->
-<!-- <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
-  <img height="25" title="MySQL" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
-</a> -->
 
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">
-  <img height="25" title="React" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">
-</a>
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/Redux.png">
-  <img height="25" title="Redux" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/Redux.png">
-</a>
+<img align="left" height="30" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+<img align="left" height="30" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
+<img align="left" height="30" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
+<img align="left" height="30" title="NodeJs" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
+<img align="left" height="30" title="expressJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/icons8-express-js-480.png"/>
+<img align="left" height="30" title="NestJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
+<img align="left" height="30" title="MongoDB" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png"/>
+<img align="left" height="30" title="MySQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/MySQL.png"/>
+<img align="left" height="30" title="PostgreSQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/postgreess.png"/>
+<img align="left" height="30" title="React"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
+<img align="left" height="30" title="Angular"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/Angular.png"/>
 
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/yarn.png">
-  <img height="25" title="yarn" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/yarn.png">
-</a>
-<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/npm.png">
-  <img height="25" title="npm" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/npm.png">
-</a>
 
-<br />
-<br />
-
-**My activity for the life :**
-
-<div> 
-  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=NastyaGrigorieva&show_icons=true" alt="myGitStats" > 
-</div>
