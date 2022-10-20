@@ -12,7 +12,6 @@
 
 <a href="https://mailto:leonardopanov@yahoo.com/">
   <img align="left" alt="Yahoo" width="24px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/yahoo.png"/>
-
 </a>
 
 <a href="https://mailto:leomylord@gmail.com/">
