@@ -27,7 +27,7 @@
 </a>
 
 <a>
-  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
+  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
 </a>
 
 
