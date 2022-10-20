@@ -13,7 +13,7 @@
 
 #### Languages and Tools:
 
-<a>
+<a href="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
   <img align="left" height="30px" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
 <a>
