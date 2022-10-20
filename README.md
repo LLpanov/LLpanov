@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://mailto:leomylord@gmail.com/">
-  <img align="left" alt="Gmail" width="24px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/gmail.png"/>
+  <img align="left" alt="Gmail" width="25px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/gmail.png"/>
 </a>
 
 
