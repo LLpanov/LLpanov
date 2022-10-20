@@ -4,7 +4,7 @@
 #### Connect with me:
 
 <a href="https://www.linkedin.com/in/leonid-panov-a814aa23b/">
-  <img align="left" alt="LinkedIn" width="35px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/linkedin.png" />
+  <img align="left" alt="LinkedIn" width="30px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/linkedin.png" />
 </a>
 
 
@@ -15,19 +15,25 @@
 #### Languages and Tools:
 
 <a>
-  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+  <img align="left" height="30px" title="WebStorm" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
-
 <a>
-  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
+  <img align="left" height="30px" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
 </a>
-
 <a>
-  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
+  <img align="left" height="30px" title="TypeScript" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
 </a>
-
 <a>
-  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
+  <img align="left" height="30px" title="NodeJs" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png"/>
+</a>
+<a>
+  <img align="left" height="30px" title="NestJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
+</a>
+<a>
+  <img align="left" height="30px" title="NestJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
+</a>
+<a>
+  <img align="left" height="30px" title="React" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
 </a>
 
 
