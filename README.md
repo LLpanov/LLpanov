@@ -11,13 +11,13 @@
 <br/>
 <br/>
 
-#### Languages and Tools:
+**Languages and Tools:**
 
 <a href="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
-  <img align="left" height="30" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+  <img align="left" height="25" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
 </a>
 <a>
-  <img align="left" height="30" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
+  <img align="left" height="25" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
 </a>
 <a>
   <img align="left" height="30" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
