@@ -19,17 +19,41 @@
 **Languages and Tools:**
 
 
-<img align="left" height="25" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
-<img align="left" height="25" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png">
-<img align="left" height="25" title="TypeScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png">
-<img align="left" height="25" title="NodeJs" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nodeJs.png">
-<img align="left" height="25" title="expressJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/icons8-express-js-480.png">
-<img align="left" height="25" title="NestJS" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png">
-<img align="left" height="25" title="MongoDB" src="https://github.com/LLpanov/LLpanov/blob/main/icons/MongoDB.png">
-<img align="left" height="25" title="MySQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/MySQL.png">
-<img align="left" height="25" title="PostgreSQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/postgreess.png">
-<img align="left" height="25" title="React"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png">
-<img align="left" height="25" title="Angular"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/Angular.png">
+<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/WebStorm.png">
+  <img height="25" title="WebStorm" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/WebStorm.png">
+</a>
+<!-- <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/VisualStudioCode.png">
+  <img height="25" title="VSC" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/VisualStudioCode.png">
+</a> -->
+<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/JavaScript.png">
+  <img height="25" title="JavaScript" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/JavaScript.png">
+</a>
+<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/TypeScript.png">
+  <img height="25" title="TypeScript" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/TypeScript.png">
+</a>
+<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/NodeJS.png">
+  <img height="25" title="NodeJs" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/NodeJS.png">
+</a>
+<!-- <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
+  <img height="25" title="MongoDB" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MongoDB.png">
+</a> -->
+<!-- <a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
+  <img height="25" title="MySQL" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/MySQL.png">
+</a> -->
+
+<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">
+  <img height="25" title="React" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/React.png">
+</a>
+<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/Redux.png">
+  <img height="25" title="Redux" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/Redux.png">
+</a>
+
+<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/yarn.png">
+  <img height="25" title="yarn" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/yarn.png">
+</a>
+<a href="https://github.com/NastyaGrigorieva/icons/blob/main/skils/npm.png">
+  <img height="25" title="npm" src="https://github.com/NastyaGrigorieva/icons/blob/main/skils/npm.png">
+</a>
 <br/>  
 <hr/>
 
