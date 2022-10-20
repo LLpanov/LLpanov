@@ -21,8 +21,6 @@
   <img align="left" alt="Telegram" width="25px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/telegram.png"/>
 </a>
 
-
-<br/>
 <br/>
 <br/>
 
