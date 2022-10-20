@@ -2,8 +2,10 @@
 <br/>  
 
 **Connect with me:**
+
 <br/>
 <br/>
+
 <a href="https://www.linkedin.com/in/leonid-panov-a814aa23b/">
   <img align="left" alt="LinkedIn" width="24px" src="https://github.com/LLpanov/LLpanov/blob/main/icons/linkedin.png" />
 </a>
