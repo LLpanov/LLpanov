@@ -26,7 +26,7 @@
   <img height="30" title="TypeScript" src="https://github.com/LLpanov/LLpanov/blob/main/icons/TypeScript.png">
 </a>
 
-<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png30
+<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png">
   <img height="30" title="NodeJs" src="https://github.com/LLpanov/LLpanov/blob/main/icons/nodeJs.png">
 </a>
 
