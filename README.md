@@ -15,7 +15,19 @@
 #### Languages and Tools:
 
 <a>
-  <img align="left" height="35px" title="WebStorm" width="35px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png"/>
+</a>
+
+<a>
+  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png"/>
+</a>
+
+<a>
+  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
+</a>
+
+<a>
+  <img align="left" height="33px" title="WebStorm" width="33px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/TypeScript.png"/>
 </a>
 
 
