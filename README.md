@@ -18,8 +18,8 @@
 
 **Languages and Tools:**
 
-<a href="https://githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
-  <img height="25" title="Webstorm" src="https:raw//githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
+<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/WebStorm.png">
+  <img height="25" title="Webstorm" src="https://github.com/LLpanov/LLpanov/blob/main/icons/WebStorm.png">
 </a>
 <img align="left" height="25" title="WebStorm"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png">
 <img align="left" height="25" title="JavaScript" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/JavaScript.png">
