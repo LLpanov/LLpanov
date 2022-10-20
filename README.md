@@ -46,4 +46,7 @@
 <a href="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/WebStorm.png" >
   <img align="left" height="30" title="Angular"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/Angular.png"/>
 </a>
+<br />
+<br />
 
+**My activity for the life :**
