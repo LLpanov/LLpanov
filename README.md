@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-**Languages and Tools:30
+**Languages and Tools:**
 
 <a href="https://github.com/LLpanov/LLpanov/blob/main/icons/JavaScript.png">
   <img height="30" title="JavaScript" src="https://github.com/LLpanov/LLpanov/blob/main/icons/JavaScript.png">
