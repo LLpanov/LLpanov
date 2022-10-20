@@ -29,7 +29,7 @@
   <img align="left" height="30px" title="NestJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
 </a>
 <a>
-  <img align="left" height="30px" title="NestJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/nestjs.png"/>
+  <img align="left" height="30px" title="expressJS" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/62e10c165ef64947d65efb6724728e27db3da9b5/icons/expressjs_logo_icon_169185.svg"/>
 </a>
 <a>
   <img align="left" height="30px" title="React" width="30px" src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
