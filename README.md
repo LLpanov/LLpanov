@@ -30,5 +30,7 @@
 <img align="left" height="25" title="PostgreSQL"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/postgreess.png"/>
 <img align="left" height="25" title="React"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/React.png"/>
 <img align="left" height="25" title="Angular"  src="https://raw.githubusercontent.com/LLpanov/LLpanov/main/icons/Angular.png"/>
+<hr/>
+<br/>  
 
-
+<p> <img src="https://github-readme-stats.vercel.app/api?username=LLpanov&show_icons=true" alt="myGitStats" />
