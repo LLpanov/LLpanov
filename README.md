@@ -25,8 +25,8 @@
 
 **Languages and Tools:**
 
-<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/Webstorm.png">
-  <img height="30" title="Webstorm.png" src="https://github.com/LLpanov/LLpanov/blob/main/icons/Webstorm.png">
+<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/WebStorm.png">
+  <img height="30" title="Webstorm.png" src="https://github.com/LLpanov/LLpanov/blob/main/icons/WebStorm.png">
 </a>
 
 
