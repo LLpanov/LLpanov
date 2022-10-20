@@ -65,6 +65,10 @@
   <img height="30" title="Angular" src="https://github.com/LLpanov/LLpanov/blob/main/icons/Angular.png">
 </a>
 
+<a href="https://github.com/LLpanov/LLpanov/blob/main/icons/linux.png">
+  <img height="30" title="Angular" src="https://github.com/LLpanov/LLpanov/blob/main/icons/linux.png">
+</a>
+
 
 <br/>  
 <hr/>
